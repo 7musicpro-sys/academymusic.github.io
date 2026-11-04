@@ -27,6 +27,7 @@ body{text-align: center;}
 	border: 1px solid #F5B027;
 	padding: 20px;
 	text-align: center;
+	
 	-moz-border-radius: 20px;
 	-webkit-border-radius: 20px;
 	border-radius:  20px;
@@ -55,8 +56,7 @@ body{text-align: center;}
 	width: 220px;
 	margin: 20px 0px;
 	padding: 20px;
-	background: #F5B027
-	;
+	background: #F5B027;
 }
 #pie{
 	clear: both;
@@ -64,8 +64,6 @@ body{text-align: center;}
 	padding: 20px;
 	boder-top: 2px solid #999999;
 }
-
-
 article{
 	backgraound: #FFFBCC;
 	border: 1px solid #F5B027;

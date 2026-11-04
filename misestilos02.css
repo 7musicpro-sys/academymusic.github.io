@@ -27,11 +27,17 @@ body{text-align: center;}
 	border: 1px solid #F5B027;
 	padding: 20px;
 	text-align: center;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius:  20px;
+	
+	background:-moz-radial-gradient(center, circle, #F6A493 0%, #F5B027 200%);
 	
 }
 #menu{
 	background: #F54927;
 	padding: 5px 0px;
+	color: hsla(430, 100%, 50%, 0.5);
 }	
 #menu li{
 	display: inline-block;

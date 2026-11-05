@@ -47,7 +47,7 @@ function estado(){
 		progreso.style.width='0px';
 		reproducir.innerHTML='Reproducir';
 		window.clearInterval(bucle);
-		//medio.load(); //para que aparezca la imagen de portada al terminar el video
+		medio.load(); //para que aparezca la imagen de portada al terminar el video
 	}
 }
 
